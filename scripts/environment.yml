@@ -1,0 +1,14 @@
+name: rnaseq-pipeline
+
+channels:
+  - bioconda
+  - conda-forge
+
+dependencies:
+  - fastqc
+  - multiqc
+  - star
+  - subread
+  - samtools
+  - r-base
+  - bioconductor-deseq2

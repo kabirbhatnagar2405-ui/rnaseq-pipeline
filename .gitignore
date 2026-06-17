@@ -1,0 +1,11 @@
+data/raw/*
+results/*
+
+!results/.gitkeep
+
+*.bam
+*.sam
+*.fastq
+*.fastq.gz
+
+.Rhistory
