@@ -1,0 +1,11 @@
+FASTQ
+  ↓
+FastQC
+  ↓
+STAR
+  ↓
+FeatureCounts
+  ↓
+DESeq2
+  ↓
+Visualization
